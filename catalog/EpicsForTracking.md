@@ -1,5 +1,9 @@
 # Using Epics in Jira for Tracking and Collaboration
 
+## Target
+
+All team members use Jira Epics to communicate work.
+
 ## User Story
 
 As a project manager I want all staff to write Jira Epics representing LOE so that we have transparency and visibility across projects we are involved in.

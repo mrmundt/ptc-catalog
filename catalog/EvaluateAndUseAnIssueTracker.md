@@ -1,8 +1,12 @@
 # Evaluate and Use an Issue Tracker
 
-**Target**: Identify an issue tracking system which fits the team's needs.
+## Target
 
-**User Story**: As a software developer, I want to keep track of bugs and user feature requests so that I can keep track of and prioritize the work the team decides to tackle (or not).
+Identify an issue tracking system which fits the team's needs.
+
+## User Story
+
+As a software developer, I want to keep track of bugs and user feature requests so that I can keep track of and prioritize the work the team decides to tackle (or not).
 
 ## Card
 
@@ -14,7 +18,8 @@
 5. Documentation developed by team on prioritization process and use of issue tracking tool so that new user request can be correctly created by new team members, etc. 
 
 
-**Comment**: 
+## Comments
+
 *The development team may decide that a formal issue tracker is not needed based on this research and evaluation.
 - Common features of issue tracking systems: 
   - labeling the issues
