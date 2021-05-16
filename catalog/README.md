@@ -18,8 +18,8 @@
 | [Continuous Integration](ContinuousIntegration.md) | Testing is run at appropriate times without human involvement and reports are direct and concise. | 
 | [Creating Community Policies](CreatingCommunityPolicies.md) | Community software policies (and process for revisin over time) | 
 | [Developer Documentation](DeveloperDocumentation.md) |  Create documentation for use by the developers of a software project | 
-| [Using Epics in Jira for Tracking and Collaboration](EpicsForTracking.md) |  | 
-| [Evaluate and Use an Issue Tracker](EvaluateAndUseAnIssueTracker.md) |  | 
+| [Using Epics in Jira for Tracking and Collaboration](EpicsForTracking.md) | All team members use Jira Epics to communicate work. | 
+| [Evaluate and Use an Issue Tracker](EvaluateAndUseAnIssueTracker.md) | Identify an issue tracking system which fits the team's needs. | 
 | [Adopt A Git Workflow that Supports Testing and Peer-review](GitWorkflow.md) | Transition from a basic Git workflow to a collaborative workflow that supports testing and peer-review. | 
 | [Improving Project Visibility: Using a Communication Plan](ImprovingProjectVisibility.md) | Improve a project's visibility to the community | 
 | [Integrated Software Documentation](IntegratedSoftwareDocumentation.md) | Ensure that the user/developer documentation is fully integrated with the associated software. | 
