@@ -8,7 +8,7 @@ Steadily convert the codebase over to an agreed-upon stand.
 
 As a person responsible for software quality and correctness for the HDF5 library, I want guidance on selecting and implementing coding standards so that we can make our code easy for everyone to read and understand.
 
-As an HDF5 library developer or community contributor, I want tel support so that I man complying with the standards with minimal additional effort or ambiguity.
+As an HDF5 library developer or community contributor, I want support so that I am complying with the standards with minimal additional effort or ambiguity. 
 
 
 ## Card
