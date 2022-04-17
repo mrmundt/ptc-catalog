@@ -1,5 +1,4 @@
-# Build a Local Community of Practice
-
+# Requirements Engineering
 ## Target
 
 Improve our team’s development efficiency by identifying what we really want to work on early on, and make sure we are prioritizing the right work at the right time.
@@ -7,12 +6,12 @@ Improve our team’s development efficiency by identifying what we really want t
 
 ## User Story
 
-**As a** developer, **I want** to know the requirements, **so that** I build the right things.
-**As a** user of the software, **I want** to communicate my requirements clearly **so that** everyone has a shared mental model of the work.
-As the project leader, **I want** to make sure my requirements are understood **so that** the development team prioritizes the right work.
-**As a** developer, **I want** to develop software people will actually use **so that** I don’t have to struggle to convince people to use it.
-**As a** developer, **I want** to be able to collaborate with stakeholders to refine requirements **so that** the work is scoped appropriately.
-**As a** user, **I want** the requirements process to be transparent **so that** I know what work is being done and why.
+* **As a** developer, **I want** to know the requirements, **so that** I build the right things.
+* **As a** user of the software, **I want** to communicate my requirements clearly **so that** everyone has a shared mental model of the work.
+* **As a** project leader, **I want** to make sure my requirements are understood **so that** the development team prioritizes the right work.
+* **As a** developer, **I want** to develop software people will actually use **so that** I don’t have to struggle to convince people to use it.
+* **As a** developer, **I want** to be able to collaborate with stakeholders to refine requirements **so that** the work is scoped appropriately.
+* **As a** user, **I want** the requirements process to be transparent **so that** I know what work is being done and why.
 
 
 ## Card(s)
