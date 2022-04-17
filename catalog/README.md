@@ -29,7 +29,7 @@
 | [Open Source](OpenSource.md) | Software with source code that anyone can inspect, modify, and enhance. | 
 | [Tracking and Adjusting to Progress in Peer Projects](PeerProgress.md) | According as circumstances are favorable, one should modify one's plans. (Sun Tzu) | 
 | [Performance Regression Testing](PerformanceRegressionTesting.md) | To develop test suites that exercise performance capabilities and plans for how to make practical use of that performance data. | 
-| [Build a Local Community of Practice](RequirementsEngineering.md) | Improve our team’s development efficiency by identifying what we really want to work on early on, and make sure we are prioritizing the right work at the right time. | 
+| [Requirements Engineering](RequirementsEngineering.md) | Improve our team’s development efficiency by identifying what we really want to work on early on, and make sure we are prioritizing the right work at the right time. | 
 | [Licensing Your Software](SoftwareLicensing.md) | Selecting and Implementing a License for your Software. | 
 | [Source Management](SourceManagement.md) | Use Source Management System (SMS). | 
 | [THG Coding Standards](THGCodingStandards.md) | Steadily convert the codebase over to an agreed-upon stand. | 
