@@ -39,3 +39,8 @@ As a casual user of Git I want more Git tutorials and tips so that it becomes ea
 
 ## Comments
 1. See [On-demand Learning for Better Scientific Software: How to Use Resources & Technology to Optimize your Productivity](http://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar018) for details on the framework used in these progress tracking cards.
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

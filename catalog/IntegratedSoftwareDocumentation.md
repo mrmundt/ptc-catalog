@@ -39,3 +39,8 @@ Some useful technologies to consider are
 * [Sphinx](http://www.sphinx-doc.org/en/master/)
 * [ReadTheDocs](https://readthedocs.org)
 * [Jekyll](https://jekyllrb.com) and Jekyll's [Documentation Theme](https://jekyllthemes.io/jekyll-documentation-themes)
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

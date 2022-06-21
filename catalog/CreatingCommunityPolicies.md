@@ -30,3 +30,8 @@ As a developer of a software library, I want to collaborate with others to estab
 
 - This card was inspired by the BSSw.io article [What are Interoperable Software Libraries? Introducing the xSDK](https://bssw.io/items/what-are-interoperable-software-libraries-introducing-the-xsdk)
 - Once this card is completed, teams are encouraged to loop back to step 2 for further revisions; also possibly pursue a related topic: coordinated release of software packages that are compatible with community software policies |
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

@@ -37,3 +37,8 @@ Created at the SEA ISC'22 PSIP tutorial by Erik Kluzek, Christina Holt, Edward H
 [What Are CSE Software Requirements?](https://bssw.io/items/what-are-cse-software-requirements)
 
 [An Introduction to User Stories and How to Write Them](https://bssw.io/items/an-introduction-to-user-stories-and-how-to-write-them)
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).
