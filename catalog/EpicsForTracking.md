@@ -1,3 +1,4 @@
+[_metadata_:tags]:- "psip-ptc"
 # Using Epics in Jira for Tracking and Collaboration
 
 ## Target

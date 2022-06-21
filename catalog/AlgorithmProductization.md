@@ -1,3 +1,4 @@
+[_metadata_:tags]:- "psip-ptc"
 # Algorithm Productization Checklist
 
 ## Target

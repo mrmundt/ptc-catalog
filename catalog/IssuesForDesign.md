@@ -1,3 +1,4 @@
+[_metadata_:tags]:- "psip-ptc"
 # Using Issues on GitHub/GitLab for Design and Development
 
 ## User Story

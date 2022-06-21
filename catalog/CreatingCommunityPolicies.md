@@ -1,3 +1,4 @@
+[_metadata_:tags]:- "psip-ptc"
 # Creating Community Policies
 
 ## Target
