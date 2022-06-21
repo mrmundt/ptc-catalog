@@ -1,3 +1,8 @@
+---
+title: Project Tracking Card Catalog
+description: Example PTC from the PSIP PTC Catalog
+tags: ecp, psip, ptc
+---
 # PTC Catalog Table of Contents
 
  The table below lists the currently available Progress Tracking Cards (PTCs) with a brief description of their goals.
