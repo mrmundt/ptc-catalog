@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # Agile Adoption
 
 ## Target
@@ -24,3 +24,8 @@ As a project leader, I have heard of teams that have adopted Agile workflows and
 ## Comments
 
 1. Examples of Agile processes include stand-up meetings, additional Kanban board columns, user stories, epic/story/task work breakdowns, etc.
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

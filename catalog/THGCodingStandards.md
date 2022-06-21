@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # THG Coding Standards
 
 ## Target
@@ -44,3 +44,8 @@ As an HDF5 library developer or community contributor, I want support so that I 
 ## Other Remarks
 
 This card was created by the [THG PSIP Pilot project](https://www.osti.gov/biblio/1698291-psip-hdf5pilot-project-final-report).
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

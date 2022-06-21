@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # Performance Regression Testing
 
 ## Target
@@ -30,3 +30,8 @@ and others. The choice of measurements will inform the test(s) that need to be w
 - A performance test should be able to be checked relatively easily yet it is one that also exercises the code adequately.
 - Additional steps in this PTC might include repeating these steps to support another use case, set of measurements, 
 and/or more tests.
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

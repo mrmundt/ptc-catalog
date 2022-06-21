@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # Algorithm Productization Checklist
 
 ## Target
@@ -30,3 +30,8 @@ As an algorithm developer, I want to develop and productize an ECP-relevant algo
 
 - Some algorithms may go through a phase with both VTK-h and VTK-m code
 - Development of VTK-m filters must adhere to the [VTK-m contributing guide](https://gitlab.kitware.com/vtk/vtk-m/blob/master/CONTRIBUTING.md)
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

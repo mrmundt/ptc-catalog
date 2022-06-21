@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # Licensing Your Software
 
 ## Target
@@ -28,3 +28,8 @@ As a contributor to a software package, I want to ensure that our work has an ap
 
 [1]: http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html
 
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

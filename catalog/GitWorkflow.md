@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # Adopt A Git Workflow that Supports Testing and Peer-review
 
 ## Target
@@ -26,3 +26,8 @@ so that all code changes are peer-reviewed and tested.
 - Automated testing is testing branches within Github/Gitlab in isolation
 - The term "merge request" can be used interchangeably with "pull request"
 - Steps 4 & 5 can be done in either order
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

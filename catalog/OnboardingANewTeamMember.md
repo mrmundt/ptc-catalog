@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # Onboarding A New Team Member
 
 ## Target
@@ -19,3 +19,8 @@ become contributors to our project using our policies for software development.
 | 2 | The team onboarding process is used by supervisors for new hires.|
 | 3 | The team onboarding process is approved by HR. Regular reviews of the process are undertaken.|
 | 4 | All team members are familiar with, and actively participate in, the onboarding process.|
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

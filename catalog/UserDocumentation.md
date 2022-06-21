@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # End-user Documentation
 
 ## Target
@@ -32,3 +32,8 @@ introduction guide, software installation and initial setup testing guide, troub
    - [ReadTheDocs](https://readthedocs.org)
    - [WriteTheDocs](https://www.writethedocs.org)
 
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # Transmedia Learning Framework for Python
 
 ## Target
@@ -35,3 +35,8 @@ As a casual user of Python I want more Python tutorials and tips so that it beco
 
 # Comments
 1. To complete the actions on this progress tracking card (PTC) and learn more about the TLF framework see  [On-demand Learning for Better Scientific Software: How to Use Resources & Technology to Optimize your Productivity](http://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar018).
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

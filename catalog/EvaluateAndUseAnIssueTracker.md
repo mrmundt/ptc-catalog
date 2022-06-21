@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # Evaluate and Use an Issue Tracker
 
 ## Target
@@ -35,3 +35,8 @@ As a software developer, I want to keep track of bugs and user feature requests 
 ----
 
 Thanks @prwolfe @jeanshuler for the help!
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

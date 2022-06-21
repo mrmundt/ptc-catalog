@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # Build a Local Community of Practice
 
 ## Target
@@ -24,3 +24,8 @@ As an individual software contributor I want to build a community so that I can 
 ## Comments
 
 1. [Building Connections and Community within an Institution](https://bssw.io/blog_posts/building-connections-and-community-within-an-institution)
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).

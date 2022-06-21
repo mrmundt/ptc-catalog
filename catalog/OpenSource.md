@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "ecp-psip-ptc"
 # Open Source
 
 ## Target
@@ -20,3 +20,8 @@ As a software developer I want to make my project open source so that I can enga
 | 4 | The backlog of bugs/issues is moved to an established, third-party hosting platform |
 
 ## Comments
+
+
+### Acknowledgement
+
+This project tracking card was created using the [BSSw PSIP Project Tracking Card Catalog](https://bssw-psip.github.io/ptc-catalog/), part of the Exascale Computing Project (ECP).
