@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "psip-ptc"
+[_metadata_:tags]:- "ecp-psip-ptc"
 # Evaluate and Use an Issue Tracker
 
 ## Target

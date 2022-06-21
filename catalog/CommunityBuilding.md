@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "psip-ptc"
+[_metadata_:tags]:- "ecp-psip-ptc"
 # Build a Local Community of Practice
 
 ## Target

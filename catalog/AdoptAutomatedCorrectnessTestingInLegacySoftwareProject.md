@@ -1,4 +1,4 @@
-[_metadata_:tags]:- "psip-ptc"
+[_metadata_:tags]:- "ecp-psip-ptc"
 # Adopt Automated Correctness Testing in a Legacy Software Project
 
 ## Target
