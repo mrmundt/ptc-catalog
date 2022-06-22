@@ -1,4 +1,4 @@
-[metadata:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "bssw-psip-ptc"
 # PTC Catalog Table of Contents
 
  The table below lists the currently available Progress Tracking Cards (PTCs) with a brief description of their goals.

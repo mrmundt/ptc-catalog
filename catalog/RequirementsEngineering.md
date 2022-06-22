@@ -1,4 +1,4 @@
-[metadata:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "bssw-psip-ptc"
 # Requirements Engineering
 ## Target
 

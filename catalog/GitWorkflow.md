@@ -1,4 +1,4 @@
-[metadata:tags]:- "ecp-psip-ptc"
+[metadata:tags]:- "bssw-psip-ptc"
 # Adopt A Git Workflow that Supports Testing and Peer-review
 
 ## Target
