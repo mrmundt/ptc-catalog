@@ -43,9 +43,9 @@ for card in `ls`; do
         echo "Processing $card"
         echo -n "| " >> $toc_loc
 
-        # format title (second line) into a markdown link
-        SECONDLINE=$(awk 'FNR==2' $card)
-        echo [${SECONDLINE:2}] >> $toc_loc
+        # format title into a markdown link
+        TITLE="$(sed -n 's/^# \(.*\)$/\1/p' $card | head -n 1)"
+        echo -n [${TITLE}] >> $toc_loc
         echo -n "($card)" >> $toc_loc
 
         echo -n " | " >> $toc_loc
