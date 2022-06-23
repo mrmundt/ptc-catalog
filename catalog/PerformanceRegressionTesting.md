@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # Performance Regression Testing
 
 ## Target
@@ -29,3 +30,8 @@ and others. The choice of measurements will inform the test(s) that need to be w
 - A performance test should be able to be checked relatively easily yet it is one that also exercises the code adequately.
 - Additional steps in this PTC might include repeating these steps to support another use case, set of measurements, 
 and/or more tests.
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.

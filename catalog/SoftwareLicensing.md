@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # Licensing Your Software
 
 ## Target
@@ -27,3 +28,8 @@ As a contributor to a software package, I want to ensure that our work has an ap
 
 [1]: http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html
 
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.

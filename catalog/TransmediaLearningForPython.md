@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # Transmedia Learning Framework for Python
 
 ## Target
@@ -34,3 +35,8 @@ As a casual user of Python I want more Python tutorials and tips so that it beco
 
 # Comments
 1. To complete the actions on this progress tracking card (PTC) and learn more about the TLF framework see  [On-demand Learning for Better Scientific Software: How to Use Resources & Technology to Optimize your Productivity](http://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar018).
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.

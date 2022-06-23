@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # Evaluate and Use an Issue Tracker
 
 ## Target
@@ -34,3 +35,8 @@ As a software developer, I want to keep track of bugs and user feature requests 
 ----
 
 Thanks @prwolfe @jeanshuler for the help!
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.

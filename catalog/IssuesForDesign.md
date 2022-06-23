@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # Using Issues on GitHub/GitLab for Design and Development
 
 ## User Story
@@ -18,3 +19,8 @@ As a software engineer I want my small team to use issues for developing new mod
 ## Comments
 
 1. To learn more see [What is Issue Tracking?](https://bssw.io/items/what-is-issue-tracking)
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.

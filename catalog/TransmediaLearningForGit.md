@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # Transmedia Learning Framework for Git
 
 ## Target
@@ -34,3 +35,8 @@ As a casual user of Git I want more Git tutorials and tips so that it becomes ea
 
 ## Comments
 1. See [On-demand Learning for Better Scientific Software: How to Use Resources & Technology to Optimize your Productivity](http://ideas-productivity.org/events/hpc-best-practices-webinars/#webinar018) for details on the framework used in these progress tracking cards.
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.

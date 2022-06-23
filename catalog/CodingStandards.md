@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # Adopting Consistent Coding Standards
 
 ## Target
@@ -36,3 +37,8 @@ As a software developer on a project that has a defined coding standard, I want 
 ## Comments
 
 Percentages used in Variant B may reflect number of lines in the code, team expertise for understanding and documenting code, timeline for this PTC and several other factors. When the team considers a task completed in the last step will vary from team to team.
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.

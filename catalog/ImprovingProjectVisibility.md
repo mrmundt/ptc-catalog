@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # Improving Project Visibility: Using a Communication Plan
 
 ## Target
@@ -28,3 +29,8 @@ within a specified time frame.
 3. Develop and implement an actionable plan to publicize the project to the community (e.g. for a research community, through posters and research publications) within a specified time frame. The plan should be achievable by team.
 4. The team has defined how "active" a social media presence will be required (e.g. 1 tweet per day, 1 blog post per week, etc.)
 5. The communication plan may be revised as the requirements for "ideal" visibility shift.
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.

@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # Build a Local Community of Practice
 
 ## Target
@@ -23,3 +24,8 @@ As an individual software contributor I want to build a community so that I can 
 ## Comments
 
 1. [Building Connections and Community within an Institution](https://bssw.io/blog_posts/building-connections-and-community-within-an-institution)
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.

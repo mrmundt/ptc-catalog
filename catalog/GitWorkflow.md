@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # Adopt A Git Workflow that Supports Testing and Peer-review
 
 ## Target
@@ -25,3 +26,8 @@ so that all code changes are peer-reviewed and tested.
 - Automated testing is testing branches within Github/Gitlab in isolation
 - The term "merge request" can be used interchangeably with "pull request"
 - Steps 4 & 5 can be done in either order
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.

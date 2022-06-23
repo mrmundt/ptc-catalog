@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # Requirements Engineering
 ## Target
 
@@ -32,3 +33,8 @@ Created at the SEA ISC'22 PSIP tutorial by Erik Kluzek, Christina Holt, Edward H
 [What Are CSE Software Requirements?](https://bssw.io/items/what-are-cse-software-requirements)
 
 [An Introduction to User Stories and How to Write Them](https://bssw.io/items/an-introduction-to-user-stories-and-how-to-write-them)
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.

@@ -1,3 +1,4 @@
+[metadata:tags]:- "bssw-psip-ptc"
 # THG GitHub Migration
 
 ## Target
@@ -32,3 +33,8 @@ As a community contributor, I want my contributions to be held to the same stand
 ## Other Remarks
 
 This card was created by the [THG PSIP Pilot project](https://www.osti.gov/biblio/1698291-psip-hdf5pilot-project-final-report).
+
+
+### Acknowledgement
+
+This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.
