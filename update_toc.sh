@@ -43,12 +43,13 @@ for card in `ls`; do
         echo "Processing $card"
         echo -n "| " >> $toc_loc
 
-        # format title (first line) into a markdown link
-        awk '{printf "[%s]", substr($0,3); exit}' $card >> $toc_loc
+        # format title (second line) into a markdown link
+        SECONDLINE=$(awk 'FNR==2' $card)
+        echo [${SECONDLINE:2}] >> $toc_loc
         echo -n "($card)" >> $toc_loc
 
         echo -n " | " >> $toc_loc
-        # print first non-zeno length line under "## Target" heading
+        # print first non-zero length line under "## Target" heading
         awk '/## Target/ {in_target=1; next}
              (length($0) > 1) && (in_target) { printf "%s", $0; exit}' $card >> $toc_loc
 
