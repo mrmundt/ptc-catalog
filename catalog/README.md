@@ -1,4 +1,3 @@
-[metadata:tags]:- "bssw-psip-ptc"
 # PTC Catalog Table of Contents
 
  The table below lists the currently available Progress Tracking Cards (PTCs) with a brief description of their goals.
@@ -11,40 +10,35 @@
 
  | Title | Goal(s) |
  |:-----:|:--------|
-| [Adopt Automated Correctness Testing in a Legacy Software Project](AdoptAutomatedCorrectnessTestingInLegacySoftwareProject.md) | Adoption of automated testing for a [legacy software project](https://bssw.io/items/working-effectively-with-legacy-code) that has no automated tests at the beginning (e.g., where testing is done manually or only tested against customer codes). | 
-| [Agile Adoption](AgileAdoption.md) | Team begins with Kanban and adopts additional processes in response to specific team needs. | 
-| [Algorithm Productization Checklist](AlgorithmProductization.md) | A VTK-m filter for ALPINE in situ algorithm users. | 
-| [Adopting Consistent Coding Standards](CodingStandards.md) | Steadily convert the codebase over to an agreed-upon standard. | 
-| [Build a Local Community of Practice](CommunityBuilding.md) | Build a local community around your software project. | 
-| [Continuous Integration](ContinuousIntegration.md) | Testing is run at appropriate times without human involvement and reports are direct and concise. | 
-| [Creating Community Policies](CreatingCommunityPolicies.md) | Community software policies (and process for revisin over time) | 
-| [Developer Documentation](DeveloperDocumentation.md) |  Create documentation for use by the developers of a software project | 
-| [Using Epics in Jira for Tracking and Collaboration](EpicsForTracking.md) | All team members use Jira Epics to communicate work. | 
-| [Evaluate and Use an Issue Tracker](EvaluateAndUseAnIssueTracker.md) | Identify an issue tracking system which fits the team's needs. | 
-| [Adopt A Git Workflow that Supports Testing and Peer-review](GitWorkflow.md) | Transition from a basic Git workflow to a collaborative workflow that supports testing and peer-review. | 
-| [Improving Project Visibility: Using a Communication Plan](ImprovingProjectVisibility.md) | Improve a project's visibility to the community | 
-| [Integrated Software Documentation](IntegratedSoftwareDocumentation.md) | Ensure that the user/developer documentation is fully integrated with the associated software. | 
-| [Using Issues on GitHub/GitLab for Design and Development](IssuesForDesign.md) |  | 
-| [Multi-System Performance Testing](MultiSystemPerformanceTesting.md) | Regular, automated testing at on all target platforms. | 
-| [Onboarding A New Team Member](OnboardingANewTeamMember.md) | Create an onboarding process for new team members. | 
-| [Open Source](OpenSource.md) | Software with source code that anyone can inspect, modify, and enhance. | 
-| [Tracking and Adjusting to Progress in Peer Projects](PeerProgress.md) | According as circumstances are favorable, one should modify one's plans. (Sun Tzu) | 
-| [Performance Regression Testing](PerformanceRegressionTesting.md) | To develop test suites that exercise performance capabilities and plans for how to make practical use of that performance data. | 
-| [Requirements Engineering](RequirementsEngineering.md) | Improve our team’s development efficiency by identifying what we really want to work on early on, and make sure we are prioritizing the right work at the right time. | 
-| [Licensing Your Software](SoftwareLicensing.md) | Selecting and Implementing a License for your Software. | 
-| [Source Management](SourceManagement.md) | Use Source Management System (SMS). | 
-| [THG Coding Standards](THGCodingStandards.md) | Steadily convert the codebase over to an agreed-upon stand. | 
-| [THG GitHub Migration](THGGitHubMigration.md) | Transition from a collaborative Git workflow that supports only non-CI testing to one that supports low-cost CI testing and is transparent to community contributors. | 
-| [THG Reference Manual](THGReferenceManual.md) | Create end-user documentation for the HDF5 library. | 
-| [Test Coverage](TestCoverage.md) |  | 
-| [Test Driven Development](TestDrivenDevelopment.md) | Team transitions from a traditional development process to a test driven development process. | 
-| [Transitioning to Git Revision Control](TransitionToGitRevisionControl.md) | Transition to using Git for revision control and basic Git usage. | 
-| [Transmedia Learning Framework for Git](TransmediaLearningForGit.md) | Learn Git enough to more efficiently recall functionality on demand. | 
-| [Transmedia Learning Framework for Python](TransmediaLearningForPython.md) | Learn Python enough to more efficiently recall functionality on demand. | 
-| [Promote User Confidence in Software Updates ](UserConfidenceSoftwareUpdates.md) | Ensure users are confident of application performance and behavior changes made by an update/new release. | 
-| [End-user Documentation](UserDocumentation.md) | Create end-user documentation for a software project | 
-
-
-### Acknowledgement
-
-This Project Tracking Card originated from the [PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/). The development of the PSIP PTC Catalog was supported by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office of Science and the National Nuclear Security Administration.
+| [etadata:tags]:- "bssw-psip-ptc"](AdoptAutomatedCorrectnessTestingInLegacySoftwareProject.md) | Adoption of automated testing for a [legacy software project](https://bssw.io/items/working-effectively-with-legacy-code) that has no automated tests at the beginning (e.g., where testing is done manually or only tested against customer codes). | 
+| [etadata:tags]:- "bssw-psip-ptc"](AgileAdoption.md) | Team begins with Kanban and adopts additional processes in response to specific team needs. | 
+| [etadata:tags]:- "bssw-psip-ptc"](AlgorithmProductization.md) | A VTK-m filter for ALPINE in situ algorithm users. | 
+| [etadata:tags]:- "bssw-psip-ptc"](CodingStandards.md) | Steadily convert the codebase over to an agreed-upon standard. | 
+| [etadata:tags]:- "bssw-psip-ptc"](CommunityBuilding.md) | Build a local community around your software project. | 
+| [etadata:tags]:- "bssw-psip-ptc"](ContinuousIntegration.md) | Testing is run at appropriate times without human involvement and reports are direct and concise. | 
+| [etadata:tags]:- "bssw-psip-ptc"](CreatingCommunityPolicies.md) | Community software policies (and process for revisin over time) | 
+| [etadata:tags]:- "bssw-psip-ptc"](DeveloperDocumentation.md) |  Create documentation for use by the developers of a software project | 
+| [etadata:tags]:- "bssw-psip-ptc"](EpicsForTracking.md) | All team members use Jira Epics to communicate work. | 
+| [etadata:tags]:- "bssw-psip-ptc"](EvaluateAndUseAnIssueTracker.md) | Identify an issue tracking system which fits the team's needs. | 
+| [etadata:tags]:- "bssw-psip-ptc"](GitWorkflow.md) | Transition from a basic Git workflow to a collaborative workflow that supports testing and peer-review. | 
+| [etadata:tags]:- "bssw-psip-ptc"](ImprovingProjectVisibility.md) | Improve a project's visibility to the community | 
+| [etadata:tags]:- "bssw-psip-ptc"](IntegratedSoftwareDocumentation.md) | Ensure that the user/developer documentation is fully integrated with the associated software. | 
+| [etadata:tags]:- "bssw-psip-ptc"](IssuesForDesign.md) |  | 
+| [etadata:tags]:- "bssw-psip-ptc"](MultiSystemPerformanceTesting.md) | Regular, automated testing at on all target platforms. | 
+| [etadata:tags]:- "bssw-psip-ptc"](OnboardingANewTeamMember.md) | Create an onboarding process for new team members. | 
+| [etadata:tags]:- "bssw-psip-ptc"](OpenSource.md) | Software with source code that anyone can inspect, modify, and enhance. | 
+| [etadata:tags]:- "bssw-psip-ptc"](PeerProgress.md) | According as circumstances are favorable, one should modify one's plans. (Sun Tzu) | 
+| [etadata:tags]:- "bssw-psip-ptc"](PerformanceRegressionTesting.md) | To develop test suites that exercise performance capabilities and plans for how to make practical use of that performance data. | 
+| [etadata:tags]:- "bssw-psip-ptc"](RequirementsEngineering.md) | Improve our team’s development efficiency by identifying what we really want to work on early on, and make sure we are prioritizing the right work at the right time. | 
+| [etadata:tags]:- "bssw-psip-ptc"](SoftwareLicensing.md) | Selecting and Implementing a License for your Software. | 
+| [etadata:tags]:- "bssw-psip-ptc"](SourceManagement.md) | Use Source Management System (SMS). | 
+| [etadata:tags]:- "bssw-psip-ptc"](THGCodingStandards.md) | Steadily convert the codebase over to an agreed-upon stand. | 
+| [etadata:tags]:- "bssw-psip-ptc"](THGGitHubMigration.md) | Transition from a collaborative Git workflow that supports only non-CI testing to one that supports low-cost CI testing and is transparent to community contributors. | 
+| [etadata:tags]:- "bssw-psip-ptc"](THGReferenceManual.md) | Create end-user documentation for the HDF5 library. | 
+| [etadata:tags]:- "bssw-psip-ptc"](TestCoverage.md) |  | 
+| [etadata:tags]:- "bssw-psip-ptc"](TestDrivenDevelopment.md) | Team transitions from a traditional development process to a test driven development process. | 
+| [etadata:tags]:- "bssw-psip-ptc"](TransitionToGitRevisionControl.md) | Transition to using Git for revision control and basic Git usage. | 
+| [etadata:tags]:- "bssw-psip-ptc"](TransmediaLearningForGit.md) | Learn Git enough to more efficiently recall functionality on demand. | 
+| [etadata:tags]:- "bssw-psip-ptc"](TransmediaLearningForPython.md) | Learn Python enough to more efficiently recall functionality on demand. | 
+| [etadata:tags]:- "bssw-psip-ptc"](UserConfidenceSoftwareUpdates.md) | Ensure users are confident of application performance and behavior changes made by an update/new release. | 
+| [etadata:tags]:- "bssw-psip-ptc"](UserDocumentation.md) | Create end-user documentation for a software project | 
