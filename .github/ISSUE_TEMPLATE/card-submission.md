@@ -3,10 +3,11 @@ name: Card Submission
 about: This is a template for contributors to submit progress tracking cards of their
   own via GitHub Issues.
 title: PTC Proposal
-labels: 'new ptc'
+labels: 'New PTC'
 assignees: ''
 ---
-
+<!-- Add any necessary metadata for this card (e.g., category) -->
+[metadata:tags]: - "bssw-psip-ptc"
 # Practice Title Here
 
 <!-- 
@@ -28,7 +29,7 @@ Next, provide one or more **user stories** that explain the context of this goal
 A user story is a statement that can be phrased as "As a _____, I want _____ so that _____." 
 -->
 
-As a  <!-- FILL IN --> , I want <!-- FILL IN -->, so that <!-- FILL IN -->.
+As a **ROLE**, I want **DESIRE**, so that **IMPACT**.
 
 ## Card(s)
 
@@ -44,7 +45,14 @@ Example:
 5. Comprehensive unit, use case functional testing; test coverage commitment. 
 -->
 
-Add cards here
+| Score         | Description |
+| :-------------: | :------------- |
+| 0 | Current state. |
+| 1 | Stage 1 state. |
+| 2 | Stage 2 state. |
+| 3 | Stage 3 state. |
+| 4 | Stage 4 state. |
+| 5 | Stage 5 state (OPTIONAL). |
 
 ## Comments
 <!-- 
@@ -67,3 +75,15 @@ If you have any other remarks or points of discussion that you want to raise in 
 -->
 
 Remarks here
+
+### Acknowledgement
+
+<!--
+Please add your name and/or GitHub username to this acknowledgement section.
+-->
+This Project Tracking Card was submitted to the
+[PSIP PTC Catalog](https://bssw-psip.github.io/ptc-catalog/) by
+**INSERT NAME**, **@username**.
+The development of the PSIP PTC Catalog was supported by the Exascale Computing Project
+(17-SC-20-SC), a collaborative effort of the U.S. Department of Energy Office
+of Science and the National Nuclear Security Administration.
