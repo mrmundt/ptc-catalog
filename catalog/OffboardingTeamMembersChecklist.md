@@ -1,8 +1,7 @@
 # Off-boarding Checklist
-Incorporating checklists in the off-boarding process for a team member.
 
 ## Target
-Create an offboarding process for those exiting the team.
+Incorporating checklists in the off-boarding process for a team member.
 
 ## User Story
 As a project leader, I want to have a off-boarding checklist so that I can ensure that there is no loss of knowledge, work or equipment when a team member exits the team.
