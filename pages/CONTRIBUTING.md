@@ -1,8 +1,8 @@
-# How To Contribute
+# How to Contribute
 
 Thank you for your willingness to contribute additional progress tracking cards to our catalog! There are two ways to do this: (1) by creating an card submission issue and (2) as a pull request.
 
-## How To Submit A PTC as a GitHub Issue
+## How to Submit a PTC as a GitHub Issue
 
 1. Select **Issues**.
 
