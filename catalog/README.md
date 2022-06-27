@@ -25,6 +25,7 @@
 | [Integrated Software Documentation](IntegratedSoftwareDocumentation.md) | Ensure that the user/developer documentation is fully integrated with the associated software. | 
 | [Using Issues on GitHub/GitLab for Design and Development](IssuesForDesign.md) |  | 
 | [Multi-System Performance Testing](MultiSystemPerformanceTesting.md) | Regular, automated testing at on all target platforms. | 
+| [Off-boarding Checklist](OffboardingTeamMembersChecklist.md) | Incorporating checklists in the off-boarding process for a team member. | 
 | [Onboarding A New Team Member](OnboardingANewTeamMember.md) | Create an onboarding process for new team members. | 
 | [Open Source](OpenSource.md) | Software with source code that anyone can inspect, modify, and enhance. | 
 | [Tracking and Adjusting to Progress in Peer Projects](PeerProgress.md) | According as circumstances are favorable, one should modify one's plans. (Sun Tzu) | 
