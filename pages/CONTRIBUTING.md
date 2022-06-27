@@ -31,10 +31,8 @@ Thank you for your willingness to contribute additional progress tracking cards 
 
 ![Select Create New File](assets/images/create_file_button.png)
 
-Copy and paste the content of your card into the dialog box. The file should have a descriptive name with the markdown extension (e.g. SoftwareLicensing.md, PerformanceRegressionTesting.md). Commit the new file to the fork.
+3. Copy and paste the content of your card into the dialog box. The file should have a descriptive name with the markdown extension (e.g. SoftwareLicensing.md, PerformanceRegressionTesting.md). Commit the new file to the fork.
 
 ![Write and Commit the PTC](assets/images/create_ptc_file.png)
 
-
-
-3. Follow [these instructions](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to create a pull request from the fork.
+4. Follow [these instructions](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to create a pull request from the fork.
