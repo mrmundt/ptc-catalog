@@ -6,6 +6,10 @@
 # This file will be overwritten by this script.
 ################
 
+RELATIVE_PATH=`dirname "$0"`
+pushd $RELATIVE_PATH > /dev/null
+pushd ../../ > /dev/null
+
 toc_loc=`pwd`
 toc_loc+="/catalog/README.md"
 
@@ -59,3 +63,5 @@ done
 cd ..
 
 echo "TOC updated. Please commit any changes."
+popd > /dev/null
+popd > /dev/null

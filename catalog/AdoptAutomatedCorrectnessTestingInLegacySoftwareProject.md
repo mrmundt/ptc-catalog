@@ -20,7 +20,7 @@ As a developer on a legacy software project/product, I want my team to adopt inc
 | *4* | Developers use the [Legacy Software Change Algorithm](https://bssw.io/items/working-effectively-with-legacy-code) to make changes to existing code for for smaller units creating [unit-level non-change/characterization tests](http://ideas-productivity.org/wordpress/wp-content/uploads/2016/04/IDEAS-TestingWhatIsDefinitionandCategorizationofTestsforCSESoftware-V0.2.pdf) in addition to integration-level tests where appropriate. | Changes to the code can be made faster and problems will be easier to debug when compared to only writing tests at the courser-grained integration level. |
 | *5* | Developers add automated [unit-level and integration-level verification tests](http://ideas-productivity.org/wordpress/wp-content/uploads/2016/04/IDEAS-TestingWhatIsDefinitionandCategorizationofTestsforCSESoftware-V0.2.pdf) for new code as it is written (or before it is written using Test Driven Development). | New code will have automated finer-grained tests which will make it easier and safer to extend that code in the future (and new code will no longer be "Legacy Code"). |
 
-<a href="" download><img src="/ptc-catalog/assets/images/download.png" width="20"> Download PTC</a>
+<a href="/ptc-catalog/catalog/AdoptAutomatedCorrectnessTestingInLegacySoftwareProject.md" download><img src="/ptc-catalog/assets/images/download.png" width="20"> Download PTC</a>
 
 ## Comments
 
