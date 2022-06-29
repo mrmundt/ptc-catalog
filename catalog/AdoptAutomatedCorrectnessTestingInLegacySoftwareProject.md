@@ -1,7 +1,7 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Adopt Automated Correctness Testing in a Legacy Software Project
 
-<a href="/ptc-catalog/catalog/AdoptAutomatedCorrectnessTestingInLegacySoftwareProject.md" download><img src="/ptc-catalog/assets/images/download.png" width="18"> Download this PTC (Markdown)</a>
+<a href='/ptc-catalog/catalog/AdoptAutomatedCorrectnessTestingInLegacySoftwareProject.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
 
 
 ## Target
