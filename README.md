@@ -9,7 +9,7 @@ Brought to you by the [IDEAS-ECP](https://ideas-productivity.org) PSIP team with
 
 ## Contents
 
-- [PTC Catalog Index](catalog/README.md) -- An automatically updated index of all PTCs in the catalog.
+- [PTC Catalog Index](catalog/README.html) -- An automatically updated index of all PTCs in the catalog.
 - [RateYourProject](https://rateyourproject.org) -- Take an interactive survey to assess current the practices of your team and identify room for improvement.
-- [Categorized PTC Index](pages/survey-ptcs.md) -- Browse the catalog with PTCs grouped into various categories (may not include all PTCs).
-- [Contributing Guide](pages/CONTRIBUTING.md) -- We welcome community contibutions through GitHub issues or pull requests.
+- [Categorized PTC Index](pages/survey-ptcs.html) -- Browse the catalog with PTCs grouped into various categories (may not include all PTCs).
+- [Contributing Guide](pages/CONTRIBUTING.html) -- We welcome community contibutions through GitHub issues or pull requests.
