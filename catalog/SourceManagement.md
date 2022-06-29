@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Source Management
 
+<a href='/ptc-catalog/catalog/SourceManagement.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Use Source Management System (SMS).

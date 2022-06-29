@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # THG GitHub Migration
 
+<a href='/ptc-catalog/catalog/THGGitHubMigration.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Transition from a collaborative Git workflow that supports only non-CI testing to one that supports low-cost CI testing and is transparent to community contributors.

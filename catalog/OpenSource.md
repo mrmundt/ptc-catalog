@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Open Source
 
+<a href='/ptc-catalog/catalog/OpenSource.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Software with source code that anyone can inspect, modify, and enhance.

@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Multi-System Performance Testing
 
+<a href='/ptc-catalog/catalog/MultiSystemPerformanceTesting.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Regular, automated testing at on all target platforms.

@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Developer Documentation
 
+<a href='/ptc-catalog/catalog/DeveloperDocumentation.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
  ## Target
 
  Create documentation for use by the developers of a software project

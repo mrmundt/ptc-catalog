@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Off-boarding Checklist
 
+<a href='/ptc-catalog/catalog/OffboardingTeamMembersChecklist.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 Incorporating checklists in the off-boarding process for a team member.
 

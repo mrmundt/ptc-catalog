@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Licensing Your Software
 
+<a href='/ptc-catalog/catalog/SoftwareLicensing.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Selecting and Implementing a License for your Software.

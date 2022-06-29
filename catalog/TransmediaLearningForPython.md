@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Transmedia Learning Framework for Python
 
+<a href='/ptc-catalog/catalog/TransmediaLearningForPython.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Learn Python enough to more efficiently recall functionality on demand.

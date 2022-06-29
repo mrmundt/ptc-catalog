@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Tracking and Adjusting to Progress in Peer Projects
 
+<a href='/ptc-catalog/catalog/PeerProgress.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 According as circumstances are favorable, one should modify one's plans. (Sun Tzu)

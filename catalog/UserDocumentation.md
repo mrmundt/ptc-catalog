@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # End-user Documentation
 
+<a href='/ptc-catalog/catalog/UserDocumentation.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Create end-user documentation for a software project

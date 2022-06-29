@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Agile Adoption
 
+<a href='/ptc-catalog/catalog/AgileAdoption.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Team begins with Kanban and adopts additional processes in response to specific team needs.

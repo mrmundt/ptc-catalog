@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Adopting Consistent Coding Standards
 
+<a href='/ptc-catalog/catalog/CodingStandards.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Steadily convert the codebase over to an agreed-upon standard.

@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Evaluate and Use an Issue Tracker
 
+<a href='/ptc-catalog/catalog/EvaluateAndUseAnIssueTracker.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Identify an issue tracking system which fits the team's needs.

@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Creating Community Policies
 
+<a href='/ptc-catalog/catalog/CreatingCommunityPolicies.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Community software policies (and process for revisin over time)

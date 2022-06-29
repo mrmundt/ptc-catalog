@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Build a Local Community of Practice
 
+<a href='/ptc-catalog/catalog/CommunityBuilding.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Build a local community around your software project.

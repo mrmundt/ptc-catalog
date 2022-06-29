@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Continuous Integration
 
+<a href='/ptc-catalog/catalog/ContinuousIntegration.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Testing is run at appropriate times without human involvement and reports are direct and concise.

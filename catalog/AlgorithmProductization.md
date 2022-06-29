@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Algorithm Productization Checklist
 
+<a href='/ptc-catalog/catalog/AlgorithmProductization.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 A VTK-m filter for ALPINE in situ algorithm users.

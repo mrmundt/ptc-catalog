@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Using Issues on GitHub/GitLab for Design and Development
 
+<a href='/ptc-catalog/catalog/IssuesForDesign.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## User Story
 
 As a software engineer I want my small team to use issues for developing new modules and capabilities so that we can keep track of design ideas and implementations.

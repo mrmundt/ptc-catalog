@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Onboarding A New Team Member
 
+<a href='/ptc-catalog/catalog/OnboardingANewTeamMember.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Create an onboarding process for new team members.

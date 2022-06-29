@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Performance Regression Testing
 
+<a href='/ptc-catalog/catalog/PerformanceRegressionTesting.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 To develop test suites that exercise performance capabilities and plans for how to make practical use of that performance data.

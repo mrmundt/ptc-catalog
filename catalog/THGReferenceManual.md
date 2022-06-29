@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # THG Reference Manual
 
+<a href='/ptc-catalog/catalog/THGReferenceManual.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Create end-user documentation for the HDF5 library.

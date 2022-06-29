@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Transitioning to Git Revision Control
 
+<a href='/ptc-catalog/catalog/TransitionToGitRevisionControl.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Transition to using Git for revision control and basic Git usage.

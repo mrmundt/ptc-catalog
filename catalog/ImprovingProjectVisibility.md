@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Improving Project Visibility: Using a Communication Plan
 
+<a href='/ptc-catalog/catalog/ImprovingProjectVisibility.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Improve a project's visibility to the community

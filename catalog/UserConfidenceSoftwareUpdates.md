@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Promote User Confidence in Software Updates 
 
+<a href='/ptc-catalog/catalog/UserConfidenceSoftwareUpdates.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Ensure users are confident of application performance and behavior changes made by an update/new release.

@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Integrated Software Documentation
 
+<a href='/ptc-catalog/catalog/IntegratedSoftwareDocumentation.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Ensure that the user/developer documentation is fully integrated with the associated software.
