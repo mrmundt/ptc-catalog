@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Progress Tracking Card Template Title
 
+<a href='/ptc-catalog/catalog/ProgressTrackingCardTemplate.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Provide a brief description of the goal (target) that a user is trying to reach with this card. 
