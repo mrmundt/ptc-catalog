@@ -8,13 +8,21 @@ To this end, we recommend three methods:
 
 1. Browse the [PTC Catalog](https://bssw-psip.github.io/ptc-catalog/catalog/) and find the card that is right for you **OR** use
 the [blank template](/catalog/ProgressTrackingCardTemplate.html)
-2. 
+2. Click the **Download this PTC** button to download the card as a Markdown file
+   ![Download File](/ptc-catalog/assets/images/download_file.png)
+3. Upload this file to your software repository as either:
+   - A file
+   - An issue
+   - A wiki page
+   - A GitHub Pages page
+   - or more!
+4. Regularly refer to your new PTC in team meetings, stand-ups, etc.
 
 
 ## Method 2: Fork the `ptc-catalog` Repository
 
 1. Navigate to the main [`ptc-catalog` repository](https://github.com/bssw-psip/ptc-catalog)
-2. In the top-right of the page, click the `Fork` button
+2. In the top-right of the page, click the **Fork** button
    ![Create a Fork](/ptc-catalog/assets/images/fork_button.png)
 3. Select your appropriate GitHub organization (or username) for the new fork
 

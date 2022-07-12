@@ -10,7 +10,7 @@ Provide a brief description of the goal (target) that a user is trying to reach 
 ## User Story
 
 Next, provide one or more **user stories** that explain the context of this goal.
-A user story is a statement that can be phrased as "As a _____, I want _____ so that _____." 
+A user story is a statement that can be phrased as "As a ____, I want ____ so that ____." 
 
 As a **ROLE**, I want **DESIRE**, so that **IMPACT**.
 
