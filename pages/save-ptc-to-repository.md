@@ -9,13 +9,14 @@ To this end, we recommend:
 1. Browse the [PTC Catalog](https://bssw-psip.github.io/ptc-catalog/catalog/) and find the card that is right for you **OR** use
 the [blank template](/catalog/ProgressTrackingCardTemplate.html)
 2. Click the **Download this PTC** button to download the card as a Markdown file
+   
    ![Download File](/ptc-catalog/assets/images/download_file.png)
 3. Upload this file to your software repository as:
    - A file
    - An issue
    - A wiki page
    - A GitHub Pages page
-   - or more!
+   - etc.
 4. Regularly refer to your new PTC in team meetings, stand-ups, etc.
 
 
@@ -59,7 +60,7 @@ feel free to use your new PTC however you see fit!
 
 ### Issue Template
 
-1. Download our provided issue template
+1. <a href='/ptc-catalog/catalog/ProgressTrackingCardTemplate.md' download>Download the PTC template</a>
 2. Follow the appropriate instructions to learn about creating issue templates:
    [GitHub Issue Templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository),
    [GitLab Issue Templates](https://docs.gitlab.com/ee/user/project/description_templates.html#create-an-issue-template)
