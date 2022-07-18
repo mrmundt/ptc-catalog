@@ -31,21 +31,29 @@ feel free to use your new PTC however you see fit!
 1. Navigate to your project's issues
    
    **GitHub**:
+   
    ![GitHub Issues](/ptc-catalog/assets/images/click_on_issues.png)
+   
    **GitLab**:
+   
    ![GitLab Issues](/ptc-catalog/assets/images/gitlab_click_on_issue.png)
 2. Open a new issue
    
    **GitHub**:
    ![New GitHub Issue](/ptc-catalog/assets/images/create_new_issue.png)
+   
    **GitLab**:
+   
    ![New GitLab Issue](/ptc-catalog/assets/images/gitlab_create_new_issue.png)
 3. Copy-paste the contents of your downloaded markdown file into the issue and
    submit or create the issue
    
    **GitHub**:
+   
    ![Submit GitHub Issue](/ptc-catalog/assets/images/submit_new_issue.png)
+   
    **GitLab**:
+   
    ![Submit GitLab Issue](/ptc-catalog/assets/images/gitlab_submit_new_issue.png)
 4. Refer to the issue as appropriate
 
@@ -59,8 +67,11 @@ feel free to use your new PTC however you see fit!
    choose the appropriate template:
    
    **GitHub**:
+   
    ![GitHub Template](/ptc-catalog/assets/images/select_issue_template.png)
+   
    **GitLab**:
+   
    ![GitLab Template](/ptc-catalog/assets/images/gitlab_select_issue_template.png)
 4. Fill out the template and create the issue
 
