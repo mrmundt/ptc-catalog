@@ -23,23 +23,26 @@ the [blank template](/catalog/ProgressTrackingCardTemplate.html)
 
 Depending on your team's preferred version control system, work style, etc.,
 there are numerous options on how to incorporate a PTC into your project's
-repository. We will provide some examples (in GitHub and GitLab) 
-- but feel free to use your new PTC however you see fit!
+repository. We will provide some examples (in GitHub and GitLab), but
+feel free to use your new PTC however you see fit!
 
 ### Open an Issue
 
 1. Navigate to your project's issues
+   
    **GitHub**:
    ![GitHub Issues](/ptc-catalog/assets/images/click_on_issues.png)
    **GitLab**:
    ![GitLab Issues](/ptc-catalog/assets/images/gitlab_click_on_issue.png)
 2. Open a new issue
+   
    **GitHub**:
    ![New GitHub Issue](/ptc-catalog/assets/images/create_new_issue.png)
    **GitLab**:
    ![New GitLab Issue](/ptc-catalog/assets/images/gitlab_create_new_issue.png)
 3. Copy-paste the contents of your downloaded markdown file into the issue and
    submit or create the issue
+   
    **GitHub**:
    ![Submit GitHub Issue](/ptc-catalog/assets/images/submit_new_issue.png)
    **GitLab**:
@@ -54,6 +57,7 @@ repository. We will provide some examples (in GitHub and GitLab)
    [GitLab Issue Templates](https://docs.gitlab.com/ee/user/project/description_templates.html#create-an-issue-template)
 3. Follow the first two steps of the **Open an Issue** subsection and then
    choose the appropriate template:
+   
    **GitHub**:
    ![GitHub Template](/ptc-catalog/assets/images/select_issue_template.png)
    **GitLab**:
