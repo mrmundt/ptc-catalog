@@ -21,7 +21,7 @@ repository.
 
 - [PTC Catalog Index](catalog/README.md) -- An automatically updated index of all PTCs in the catalog.
 - [Categorized PTC Index](pages/survey-ptcs.html) -- Browse the catalog with PTCs grouped into various categories (may not include all PTCs).
-- [Incorporate a PTC into your Repository](pages/save-ptc-to-repository.html) -- Blah
+- [Incorporate a PTC into your Repository](pages/save-ptc-to-repository.html) -- Learn some of the ways to incorporate a PTC your project's software repository.
 - [RateYourProject](https://rateyourproject.org) -- Take an interactive survey to assess current the practices of your team and identify room for improvement.
 - [Contributing Guide](pages/how-to-contribute.html) -- We welcome community contibutions through GitHub issues or pull requests.
 
