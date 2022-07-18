@@ -27,7 +27,7 @@ As a **ROLE**, I want **DESIRE**, so that **IMPACT**.
 
 ## Comments
 
-Any comments additional comments here.
+Any additional comments here.
 
 ## Related Cards
 
