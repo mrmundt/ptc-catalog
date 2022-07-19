@@ -6,8 +6,8 @@ To this end, we recommend:
 
 ## Download a Progress Tracking Card
 
-1. Browse the [PTC Catalog](https://bssw-psip.github.io/ptc-catalog/catalog/) and find the card that is right for you **OR** use
-the [blank template](/catalog/ProgressTrackingCardTemplate.html)
+1. Browse the [PTC Catalog](/ptc-catalog/catalog/) and find the card that is right for you **OR** use
+the [blank template](/ptc-catalog/catalog/ProgressTrackingCardTemplate.html)
 2. Click the **Download this PTC** button to download the card as a Markdown file
    
    ![Download File](/ptc-catalog/assets/images/download_file.png)
