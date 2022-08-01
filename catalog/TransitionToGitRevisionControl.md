@@ -13,7 +13,7 @@ As a software engineer I want to use Git revision control, so that the team is a
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Current revision control practice, e.g., using Subversion or nothing |
 | 1 | Categories of contributors are identified and a time-boxed plan for transitioning to Git is agreed upon |

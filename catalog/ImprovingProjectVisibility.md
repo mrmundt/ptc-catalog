@@ -13,7 +13,7 @@ As a project lead, I want to increase my project visibility, so that my project 
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Project has little or no visibility in the community. |
 | 1 | Team has identified and defined what "ideal" project visibility would look like<sup>1</sup>. |

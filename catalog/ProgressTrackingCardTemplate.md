@@ -16,7 +16,7 @@ As a **ROLE**, I want **DESIRE**, so that **IMPACT**.
 
 ## Card(s)
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Current state. |
 | 1 | Stage 1 state. |

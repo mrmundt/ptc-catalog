@@ -9,7 +9,7 @@ Use Source Management System (SMS).
 
 ## Card(s)
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No evidence that source content is managed. |
 | 1 | Source management system (SMS) is used, but not consistently.      |

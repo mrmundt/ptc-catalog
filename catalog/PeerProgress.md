@@ -15,7 +15,7 @@ so that project efforts can adapt to changing circumstances.
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No regular literature or news review practices are established. |
 | 1 | Team discusses recent project-related developments. |

@@ -13,7 +13,7 @@ As a contributor to a software package, I want to ensure that our work has an ap
 
 ## Card(s)
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Software team should agree on key requirements for a license. |
 | 1 | For an open source license, identify an Open Source Initiative-approved license that meets your requirements.  For a closed source license, engage a qualified IP or tech transfer professional to design a license meeting your requirements.      |

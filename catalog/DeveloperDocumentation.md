@@ -14,7 +14,7 @@
 
  ## Card
 
- | Score         | Description |
+ | Stage         | Description |
  | :-------------: | :------------- |
  | 0 | No project documentation exists. |
  | 1 | An initial set of documentation has been created<sup>1,2</sup>. |

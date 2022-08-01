@@ -13,7 +13,7 @@ As a software developer I want to make my project open source so that I can enga
 
 ## Card
 
-| Score | Description |
+| Stage | Description |
 |:-----:|:------------|
 | 0 | Releases are available as a packaged / pre-built binary. Code is not open source. |
 | 1 | The team has adopted an appropriate open source license |

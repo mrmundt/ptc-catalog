@@ -5,7 +5,7 @@
 
 
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Little or no independent testing. Functional testing via users. |
 | 1 | Independent functional testing of primary capabilities.      |

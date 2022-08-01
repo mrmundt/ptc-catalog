@@ -13,7 +13,7 @@ As an application developer, I want to document our project, so that new users w
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Little or no project documentation exists. |
 | 1 | An initial set of documentation has been created<sup>1,2</sup>. |

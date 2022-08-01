@@ -20,7 +20,7 @@ Improve our team’s development efficiency by identifying what we really want t
 
 ## Card(s)
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Team does ad-hoc requirements gathering, but nothing organized or done consistently. |
 | 1 | Team uses agreed-upon requirements gathering techniques and to store results from requirements gathering in a shared repository. |

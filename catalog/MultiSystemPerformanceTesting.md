@@ -13,7 +13,7 @@ As a software engineer I want to incorporate regular performance testing into my
 
 ## Card(s)
 
-| Score | Description |
+| Stage | Description |
 |:------:|:-----------:|
 | 0 | Current performance testing practice, e.g., no regular performance testing |
 | 1| Irregular, manual, performance evaluation to identify bottlenecks on a single system |

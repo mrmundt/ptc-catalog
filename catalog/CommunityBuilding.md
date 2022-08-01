@@ -13,7 +13,7 @@ As an individual software contributor I want to build a community so that I can 
 
 ## Card(s)
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No network / local community. |
 | 1 | Investigate existing local communities and the ways in which they network.      |

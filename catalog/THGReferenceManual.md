@@ -13,7 +13,7 @@ As an HDF5 stakeholder, I want an easy-to-use reference manual, so that I can ha
 
 ## Card
 
-| Score | Description |
+| Stage | Description |
 |:-----:|:------------|
 | 0 | Multiple RM versions based on different technologies exist. Stakeholders and requirements are not documentd and partially unkonwn. |
 | 1 | Stakeholder requirements are identified and documented. The requirements list is prioritized. |

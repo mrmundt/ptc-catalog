@@ -15,7 +15,7 @@ As a community contributor, I want my contributions to be held to the same stand
 
 ## Card
 
-| Score | Description |
+| Stage | Description |
 |:-----:|:------------|
 | 0 | HDF5 source code is managed in BitBucket. No CI - testing is decoupled from merge requests. Development ad contribution processes are not documented.|
 | 1 | Evaluation of GitHub as a replacement is complete.|

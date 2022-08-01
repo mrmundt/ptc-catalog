@@ -14,7 +14,7 @@ As a project leader, I have heard of teams that have adopted Agile workflows and
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Kanban board exists for team. |
 | 1 | Kanban and Personal Kanban concepts introduced to team.      |

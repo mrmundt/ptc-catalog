@@ -17,7 +17,7 @@ I don't have to learn a wholly separate content management system to manage docu
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Documentation is housed in the same repository as the code. |
 | 1 | The documentation is text-based, ascii files (as well as perhaps binary images), just as the code is. |

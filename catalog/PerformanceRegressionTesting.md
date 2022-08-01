@@ -14,7 +14,7 @@ address them sooner rather than later in the development process.
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No performance regression testing. |
 | 1 | A testable primary use case and set of measurements that are important to performance are established. |

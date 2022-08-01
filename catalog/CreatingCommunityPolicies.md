@@ -13,7 +13,7 @@ As a developer of a software library, I want to collaborate with others to estab
 
 ## Card
 
-| Score | Description |
+| Stage | Description |
 |:-----:|:------------|
 | 0 | No community policies |
 | 1 | Outline of initial software community policies, including determining: community members to collaborate on initial draft policies and general goals of policies |

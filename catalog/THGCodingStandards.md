@@ -16,15 +16,15 @@ As an HDF5 library developer or community contributor, I want support so that I 
 
 ## Card
 
-| Score | Description |
+| Stage | Description |
 |:-----:|:------------|
-| 0 | No coding standard adopted. See *Tasks to Reach Score 1*, below. |
+| 0 | No coding standard adopted. See *Tasks to Reach Stage 1*, below. |
 | 1 | The team has selected and documented an agreed-upon standard.  |
 | 2 | New code that is written is required to comply with the standard, and the team has conducted a feedback session to assess and revise the standard. |
 | 3 | The team has developed and put into place a refactoring plan to bring preexisting code into compliance with the standard. |
 | 4 | Tool support has been put in place to help ensure compliance, and running the tool is made part of the contribution process. |
 
-### Tasks to Reach Score 1
+### Tasks to Reach Stage 1
 
 - [ ] Select representative source files
 - [ ] Create outlines for Best practices and HDF5 things

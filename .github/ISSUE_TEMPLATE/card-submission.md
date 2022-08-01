@@ -45,7 +45,7 @@ Example:
 5. Comprehensive unit, use case functional testing; test coverage commitment. 
 -->
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Current state. |
 | 1 | Stage 1 state. |

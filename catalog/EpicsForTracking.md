@@ -13,7 +13,7 @@ As a project manager I want all staff to write Jira Epics representing LOE so th
 
 ## Card(s)
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Categories of work are defined and Jira project boards set up to represent each category. |
 | 1 | Template Epic has been created to capture stakeholder, expectations, timeframes, impact and capabilities. |
